@@ -2,11 +2,11 @@
 The 100 days of Code is a challenge to code or study at least one hour everyday for the next 100 days.
 My motivation for this challenge is **to improve my abilities in Web Developmnent** in general.
 This challenge is being fulfilled by **[Renata Ribeiro](https://github.com/renaderibeiro)**.
-The daily progress is being written in my Twitter's account [@renacoder](https://twitter.com/renacoder).
+The daily progress is being written in my Twitter's account **[@renacoder](https://twitter.com/renacoder)**.
 
 ### Two Main Rules
-Code/Study minimum an hour every day for the next 100 days.
-Tweet your progress every day with the #100DaysOfCode hashtag.
+1. Code/Study minimum an hour every day for the next 100 days.
+2. Tweet your progress every day with the #100DaysOfCode hashtag.
 
 ### Twitter posting
 [Day 1](https://twitter.com/renacoder/status/1280669416875872256) |
