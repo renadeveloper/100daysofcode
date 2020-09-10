@@ -21,7 +21,7 @@ The daily progress is being written in my Twitter's account **[@renacoder](https
 
 [Day 51](https://twitter.com/renacoder/status/1298814820909752326) | [Day 52](https://twitter.com/renacoder/status/1299510269056516096) | [Day 53](https://twitter.com/renacoder/status/1299513609492496384) | [Day 54](https://twitter.com/renacoder/status/1300222577315655683) | [Day 55](https://twitter.com/renacoder/status/1300266442059808768) | [Day 56](https://twitter.com/renacoder/status/1300495278085111809) | [Day 57](https://twitter.com/renacoder/status/1301187272105250824) | [Day 58](https://twitter.com/renacoder/status/1301579373158502400) | [Day 59](https://twitter.com/renacoder/status/1301706656158560258)
 
-[Day 60](https://twitter.com/renacoder/status/1303164326644244480)
+[Day 60](https://twitter.com/renacoder/status/1303164326644244480) | [Day 61](https://twitter.com/renacoder/status/1303883432376795136)
 
 
 > This project is based on [Ana Paula Mendes's projetct](https://github.com/anapaulamendes/100-days-of-code-js)
